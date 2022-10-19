@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Visual Flight Archives - Kickassanime</title>
+	<atom:link href="https://kickassanime.su/studio/visual-flight/feed" rel="self" type="application/rss+xml" />
+	<link>https://kickassanime.su/studio/visual-flight</link>
+	<description>Watch Free Popular English Anime Online</description>
+	<lastBuildDate>Sat, 27 Mar 2021 19:42:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://i0.wp.com/kickassanime.su/wp-content/uploads/2020/11/cropped-Favicon-32x32.png</url>
+	<title>Visual Flight Archives - Kickassanime</title>
+	<link>https://kickassanime.su/studio/visual-flight</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ex-Arm</title>
+		<link>https://kickassanime.su/anime/ex-arm</link>
+					<comments>https://kickassanime.su/anime/ex-arm#respond</comments>
+		
+		<dc:creator><![CDATA[kickassanime]]></dc:creator>
+		<pubDate>Sat, 09 Jan 2021 13:36:15 +0000</pubDate>
+				<guid isPermaLink="false">https://kickassanime.su/?post_type=anime&#038;p=1608</guid>
+
+					<description><![CDATA[<p>2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get...</p>
+<p>The post <a rel="nofollow" href="https://kickassanime.su/anime/ex-arm">Ex-Arm</a> appeared first on <a rel="nofollow" href="https://kickassanime.su">Kickassanime</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>2014: Akira Natsume seems to almost have a phobia of electrical devices while also being very good at diagnosing them. He resolves to change himself for the better and get a girlfriend like his older brother did. &#8230;But then Akira suddenly dies in an accident. 16 years later a special policewoman and her android partner retrieve and activate a highly advanced AI and superweapon called EX-ARM and put it into full control of their ship as a last resort. Turns out the AI is actually just Akira&#039;s brain!</p>
+<p>(Source: MU)</p>
+<p>The post <a rel="nofollow" href="https://kickassanime.su/anime/ex-arm">Ex-Arm</a> appeared first on <a rel="nofollow" href="https://kickassanime.su">Kickassanime</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kickassanime.su/anime/ex-arm/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
